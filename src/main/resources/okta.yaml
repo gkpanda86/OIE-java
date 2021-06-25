@@ -1,8 +1,8 @@
 okta:
   idx:
     issuer: "https://oie-4021598.oktapreview.com/oauth2/default"
-    clientId: "0oauwau45LfqMNV161d6"
-    clientSecret: "yrisDYu26R8xecsRMVVzfnWYqG97PsKer7o_9qAH" # Required for confidential clients
+    clientId: "###############"
+    clientSecret: "################" # Required for confidential clients
     scopes:
     - "openid"
     redirectUri: "http://localhost:8080/interactioncode/callback"
